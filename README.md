@@ -42,8 +42,11 @@ This script demonstrates the complete workflow for building a Linear Regression 
 
 ## **Output:**
 ![image](https://github.com/user-attachments/assets/7d0ada4c-1969-4e08-a05d-742c31eba7a0)
+
 ![image](https://github.com/user-attachments/assets/a553900a-9f5d-484c-984a-1761affa99b5)
+
 ![image](https://github.com/user-attachments/assets/3888f6a2-3c06-441e-8b5f-f476fe782e2e)
+
 ![image](https://github.com/user-attachments/assets/b1adb298-46a1-4def-afc7-fa061abaca65)
 
 
